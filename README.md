@@ -14,5 +14,5 @@
 
 <p align="center">AtomicGo is a collection of small Go libraries, which help you to code faster and more efficient!</p>
 
-![Alt text](/assets/header.png?raw=true "Optional Title")
+![AtomicGo](/assets/header.png?raw=true "Optional Title")
 
