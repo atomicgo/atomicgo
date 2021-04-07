@@ -1,4 +1,4 @@
-cs(<h1 align="center">AtomicGo</h1>
+<h1 align="center">AtomicGo</h1>
 
 ---
 
