@@ -7,7 +7,7 @@ repository:
   description: 🔗 Shared resources and assets for the AtomicGo organisatzion
 
   # A comma-separated list of topics to set on the repository
-  topics: atomicgo, go, golang, golang-library
+  topics: atomicgo
 
   # Either `true` to make the repository private, or `false` to make it public.
   #  private: false
