@@ -15,6 +15,13 @@
 
 -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/atomicgo/atomicgo/main/assets/header.png" alt="AtomicGo">
+</p>
+
+</br>
+</br>
+
 <h1 align="center">AtomicGo | {{ .Name }}</h1>
 
 <p align="center">
@@ -57,10 +64,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/atomicgo/atomicgo/main/assets/header.png" alt="AtomicGo">
-</p>
 
 <p align="center">
 <table>
