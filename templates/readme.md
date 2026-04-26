@@ -89,4 +89,4 @@ Auto generated documentation will be inserted here.
 
 > [AtomicGo.dev](https://atomicgo.dev) &nbsp;&middot;&nbsp;
 > with ❤️ by [@MarvinJWendt](https://github.com/MarvinJWendt) |
-> [MarvinJWendt.com](https://marvinjwendt.com)
+> [mjw.dev](https://mjw.dev)
